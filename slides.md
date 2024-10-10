@@ -257,6 +257,3 @@ Q&A / Discussion?
 # Questions?
 Feel free to ask!
 
----
-
-<div class="mt-40 text-center text-[5rem]">Vielen Dank!</div>
