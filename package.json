@@ -1,0 +1,19 @@
+{
+    "private": true,
+    "scripts": {
+      "dev": "slidev",
+      "build": "slidev build",
+      "present": "pnpm build && pnpm vite preview",
+      "export": "slidev export"
+    },
+    "dependencies": {
+      "@slidev/cli": "latest",
+      "@slidev/theme-default": "latest",
+      "@slidev/theme-seriph": "latest"
+    },
+    "devDependencies": {
+      "playwright-chromium": "latest",
+      "vite": "latest"
+    }
+  }
+  
